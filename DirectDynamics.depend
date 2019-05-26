@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1549242810 source:d:\robotbook\directdynamics\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1511196140 d:\robotbook\directdynamics\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1549249128 d:\robotbook\directdynamics\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549249410 d:\robotbook\directdynamics\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511196140 d:\robotbook\directdynamics\include\triangle3d.h
+	"vector3d.h"
+
+1511196140 d:\robotbook\directdynamics\include\vector3d.h
+	<math.h>
+
+1511196140 d:\robotbook\directdynamics\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1549249350 source:d:\robotbook\directdynamics\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1511196140 source:d:\robotbook\directdynamics\src\matrix.cpp
+	"Matrix.h"
+
+1549249379 source:d:\robotbook\directdynamics\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1549242540 source:d:\robotbook\directdynamics\src\robot.cpp
+	"Robot.h"
+
+1511196140 source:d:\robotbook\directdynamics\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511196140 source:d:\robotbook\directdynamics\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1549249678 source:d:\robotbook\directdynamics\src\directdynamics.cpp
+	"DirectDynamics.h"
+
+1549302823 d:\robotbook\directdynamics\include\directdynamics.h
+	"vectornd.h"
+	"Robot.h"
+
+1549256722 source:d:\robotbook\directdynamics\src\vectornd.cpp
+	"vectornd.h"
+	<iostream>
+
+1549256405 d:\robotbook\directdynamics\include\vectornd.h
+	<math.h>
+

@@ -1,0 +1,386 @@
+# depslib dependency file v1.0
+1549501898 source:d:\robotbook\denavit\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1549501856 d:\robotbook\denavit\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1549249128 d:\robotbook\denavit\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549249410 d:\robotbook\denavit\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511196140 d:\robotbook\denavit\include\triangle3d.h
+	"vector3d.h"
+
+1511196140 d:\robotbook\denavit\include\vector3d.h
+	<math.h>
+
+1511196140 d:\robotbook\denavit\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1549501892 source:d:\robotbook\denavit\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1549249678 source:d:\robotbook\denavit\src\directdynamics.cpp
+	"DirectDynamics.h"
+
+1549302823 d:\robotbook\denavit\include\directdynamics.h
+	"vectornd.h"
+	"Robot.h"
+
+1549256405 d:\robotbook\denavit\include\vectornd.h
+	<math.h>
+
+1511196140 source:d:\robotbook\denavit\src\matrix.cpp
+	"Matrix.h"
+
+1549249379 source:d:\robotbook\denavit\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1549242540 source:d:\robotbook\denavit\src\robot.cpp
+	"Robot.h"
+
+1511196140 source:d:\robotbook\denavit\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511196140 source:d:\robotbook\denavit\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1549256722 source:d:\robotbook\denavit\src\vectornd.cpp
+	"vectornd.h"
+	<iostream>
+
+1549502524 source:d:\robotbook\denavit - parte0\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1549501858 d:\robotbook\denavit - parte0\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1551492340 d:\robotbook\denavit - parte0\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549249412 d:\robotbook\denavit - parte0\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511196140 d:\robotbook\denavit - parte0\include\triangle3d.h
+	"vector3d.h"
+
+1511196140 d:\robotbook\denavit - parte0\include\vector3d.h
+	<math.h>
+
+1511196140 d:\robotbook\denavit - parte0\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1511196140 source:d:\robotbook\denavit - parte0\src\matrix.cpp
+	"Matrix.h"
+
+1549249380 source:d:\robotbook\denavit - parte0\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1551548383 source:d:\robotbook\denavit - parte0\src\robot.cpp
+	"Robot.h"
+
+1511196140 source:d:\robotbook\denavit - parte0\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511196140 source:d:\robotbook\denavit - parte0\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1549256724 source:d:\robotbook\denavit - parte0\src\vectornd.cpp
+	"vectornd.h"
+	<iostream>
+
+1549256406 d:\robotbook\denavit - parte0\include\vectornd.h
+	<math.h>
+
+1551548383 source:d:\robotbook\denavit - parte0\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1553664966 source:d:\robotbook\denavit - inverse-kinematics3grados\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1549501858 d:\robotbook\denavit - inverse-kinematics3grados\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1553667264 d:\robotbook\denavit - inverse-kinematics3grados\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549249412 d:\robotbook\denavit - inverse-kinematics3grados\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511196140 d:\robotbook\denavit - inverse-kinematics3grados\include\triangle3d.h
+	"vector3d.h"
+
+1511196140 d:\robotbook\denavit - inverse-kinematics3grados\include\vector3d.h
+	<math.h>
+
+1553663624 d:\robotbook\denavit - inverse-kinematics3grados\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1553656854 source:d:\robotbook\denavit - inverse-kinematics3grados\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1553668107 source:d:\robotbook\denavit - inverse-kinematics3grados\src\matrix.cpp
+	"Matrix.h"
+
+1549249380 source:d:\robotbook\denavit - inverse-kinematics3grados\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1553667793 source:d:\robotbook\denavit - inverse-kinematics3grados\src\robot.cpp
+	"Robot.h"
+
+1511196140 source:d:\robotbook\denavit - inverse-kinematics3grados\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511196140 source:d:\robotbook\denavit - inverse-kinematics3grados\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1549256724 source:d:\robotbook\denavit - inverse-kinematics3grados\src\vectornd.cpp
+	"vectornd.h"
+	<iostream>
+
+1549256406 d:\robotbook\denavit - inverse-kinematics3grados\include\vectornd.h
+	<math.h>
+
+1553664966 source:d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1549501858 d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1553667264 d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549249412 d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511196140 d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\include\triangle3d.h
+	"vector3d.h"
+
+1511196140 d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\include\vector3d.h
+	<math.h>
+
+1553663624 d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1553656854 source:d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1553668107 source:d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\src\matrix.cpp
+	"Matrix.h"
+
+1549249380 source:d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1553667793 source:d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\src\robot.cpp
+	"Robot.h"
+
+1511196140 source:d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511196140 source:d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1549256724 source:d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\src\vectornd.cpp
+	"vectornd.h"
+	<iostream>
+
+1549256406 d:\robotbook\denavit - inverse-kinematics6grados-final-02-04-2019\include\vectornd.h
+	<math.h>
+
+1554352673 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1549501858 d:\robotbook\denavit - inverse-kinematics6grados-parte3\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1554353382 d:\robotbook\denavit - inverse-kinematics6grados-parte3\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549249412 d:\robotbook\denavit - inverse-kinematics6grados-parte3\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511196140 d:\robotbook\denavit - inverse-kinematics6grados-parte3\include\triangle3d.h
+	"vector3d.h"
+
+1511196140 d:\robotbook\denavit - inverse-kinematics6grados-parte3\include\vector3d.h
+	<math.h>
+
+1554349194 d:\robotbook\denavit - inverse-kinematics6grados-parte3\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1554353198 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1554349192 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3\src\matrix.cpp
+	"Matrix.h"
+
+1549249380 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1554353489 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3\src\robot.cpp
+	"Robot.h"
+
+1511196140 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511196140 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1549256724 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3\src\vectornd.cpp
+	"vectornd.h"
+	<iostream>
+
+1549256406 d:\robotbook\denavit - inverse-kinematics6grados-parte3\include\vectornd.h
+	<math.h>
+
+1554356273 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1558903054 d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1558902979 d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1558903078 d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1558903043 d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\include\triangle3d.h
+	"vector3d.h"
+
+1558903074 d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\include\vector3d.h
+	<math.h>
+
+1558903061 d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1558903077 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1558903078 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\src\matrix.cpp
+	"Matrix.h"
+
+1558903078 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1558903029 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\src\robot.cpp
+	"Robot.h"
+
+1558903032 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1558903037 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1549260324 source:d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\src\vectornd.cpp
+	"vectornd.h"
+	<iostream>
+
+1558903078 d:\robotbook\denavit - inverse-kinematics6grados-parte3 -final\include\vectornd.h
+	<math.h>
+
